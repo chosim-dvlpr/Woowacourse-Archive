@@ -33,8 +33,8 @@
 
 | Sprint | Period | Learning Log |
 |:-----:|:-----:|:------------:|
-|5차 스프린트|`2024-09-03` ~ `2024-09-27`| 
-|6차 스프린트|`2024-09-28` ~ `2024-10-25`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EB%8D%B0%EB%AA%A8%EB%8D%B0%EC%9D%B4-%EA%B2%B8-%EB%A0%88%EB%B2%A8-4-%ED%9A%8C%EA%B3%A0%F0%9F%8D%80) |
+|5차 스프린트|`2024-09-03` - `2024-09-27`| 
+|6차 스프린트|`2024-09-28` - `2024-10-25`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EC%B5%9C%EC%A2%85-%EB%8D%B0%EB%AA%A8%EB%8D%B0%EC%9D%B4-%EA%B2%B8-%EB%A0%88%EB%B2%A8-4-%ED%9A%8C%EA%B3%A0%F0%9F%8D%80) |
 
 <br>
 
@@ -42,12 +42,12 @@
 
 | Project | Period | Repository | Pull Request & Review | Pages |
 |:-----|:-----:|:---:|:---:|:---:|
-|성능 개선|`2024-09-03` ~ `2024-09-09`|[repository](https://github.com/chosim-dvlpr/perf-basecamp)| [pull request](https://github.com/woowacourse/perf-basecamp/pull/149) |
-|접근성 사전 미션|`2024-09-19` ~ `2024-09-23`|[repository](https://github.com/chosim-dvlpr/self-paced-enhance-usability/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/self-paced-enhance-usability/pull/29) |
-|접근성|`2024-09-24` ~ `2024-10-04`|[repository](https://github.com/chosim-dvlpr/a11y-airline/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/a11y-airline/pull/107) | [github page](https://chosim-dvlpr.github.io/a11y-airline/) |
-|SSR 사전 미션|`2024-09-30` ~ `2024-10-03`|[repository](https://github.com/chosim-dvlpr/ssr-basecamp/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/ssr-basecamp/pull/22) |
-|SSR 1단계|`2024-10-04` ~ `2024-10-10`|[repository](https://github.com/chosim-dvlpr/react-ssr/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/react-ssr/pull/37) |
-|SSR 2단계|`2024-10-11` ~ `2024-10-24`|[repository](https://github.com/chosim-dvlpr/react-ssr/tree/step2)| [pull request](https://github.com/woowacourse/react-ssr/pull/52) |
+|성능 개선|`2024-09-03` - `2024-09-09`|[repository](https://github.com/chosim-dvlpr/perf-basecamp)| [pull request](https://github.com/woowacourse/perf-basecamp/pull/149) |
+|접근성 사전 미션|`2024-09-19` - `2024-09-23`|[repository](https://github.com/chosim-dvlpr/self-paced-enhance-usability/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/self-paced-enhance-usability/pull/29) |
+|접근성|`2024-09-24` - `2024-10-04`|[repository](https://github.com/chosim-dvlpr/a11y-airline/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/a11y-airline/pull/107) | [github page](https://chosim-dvlpr.github.io/a11y-airline/) |
+|SSR 사전 미션|`2024-09-30` - `2024-10-03`|[repository](https://github.com/chosim-dvlpr/ssr-basecamp/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/ssr-basecamp/pull/22) |
+|SSR 1단계|`2024-10-04` - `2024-10-10`|[repository](https://github.com/chosim-dvlpr/react-ssr/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/react-ssr/pull/37) |
+|SSR 2단계|`2024-10-11` - `2024-10-24`|[repository](https://github.com/chosim-dvlpr/react-ssr/tree/step2)| [pull request](https://github.com/woowacourse/react-ssr/pull/52) |
 
 <br>
 
@@ -76,10 +76,10 @@
 
 | Sprint | Period | Learning Log |
 |:-----:|:-----:|:------------:|
-|1차 스프린트|`2024-07-02` ~ `2024-07-12`| 
-|2차 스프린트|`2024-07-13` ~ `2024-07-26`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-2%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%84%9C%EB%A1%9C%EC%9D%98-%EC%98%A8%EB%8F%84%EB%A5%BC-%EB%A7%9E%EC%B6%94%EA%B8%B0) |
-|3차 스프린트|`2024-07-27` ~ `2024-08-09`|
-|4차 스프린트|`2024-08-10` ~ `2024-08-23`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EB%A0%88%EB%B2%A8-3-%EB%9F%B0%EC%B9%AD-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-4%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
+|1차 스프린트|`2024-07-02` - `2024-07-12`| 
+|2차 스프린트|`2024-07-13` - `2024-07-26`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-2%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0-%EC%84%9C%EB%A1%9C%EC%9D%98-%EC%98%A8%EB%8F%84%EB%A5%BC-%EB%A7%9E%EC%B6%94%EA%B8%B0) |
+|3차 스프린트|`2024-07-27` - `2024-08-09`|
+|4차 스프린트|`2024-08-10` - `2024-08-23`| [스프린트 회고](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EB%A0%88%EB%B2%A8-3-%EB%9F%B0%EC%B9%AD-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-4%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%9A%8C%EA%B3%A0) |
 
 <br>
 
@@ -99,14 +99,14 @@
 
 | Project | Period | Repository | Pull Request & Review | Pages | Storybook |
 |:-----:|:-----:|:---:|:---:|:---:|:---:|
-|페이먼츠 <br> 1단계|`2024-04-16` ~ `2024-04-22`|[repository 1](https://github.com/chosim-dvlpr/react-payments/tree/step1)|[pull request 1](https://github.com/woowacourse/react-payments/pull/340)|
-|페이먼츠 <br> 2단계|`2024-04-23` ~ `2024-04-29`|[repository 2](https://github.com/chosim-dvlpr/react-payments/tree/step2)|[pull request 2](https://github.com/woowacourse/react-payments/pull/391)| [github page](https://chosim-dvlpr.github.io/react-payments/dist/) | [storybook](https://6620c28ba5e20036aa444298-bwmuqduqkz.chromatic.com/?path=/story/cardbackimage--default)
-|페이먼츠 모듈 <br> 1단계|`2024-04-30` ~ `2024-05-06`|[repository 1](https://github.com/chosim-dvlpr/react-modules/tree/step1)|[pull request 1](https://github.com/woowacourse/react-modules/pull/6)| 
-|페이먼츠 모듈 <br> 2단계|`2024-05-07` ~ `2024-05-13`|[repository 2](https://github.com/chosim-dvlpr/react-modules/tree/step2)|[pull request 2](https://github.com/woowacourse/react-modules/pull/65)| npm 모듈 배포<br>[modal](https://www.npmjs.com/package/woowacourse-react-modal-component)<br>[custom hook](https://www.npmjs.com/package/woowacourse-card-custom-hook) | [storybook](https://663339f504de8c832eb86c8e-romtuuafsx.chromatic.com/)
-|장바구니 <br> 1단계|`2024-05-14` ~ `2024-05-20`|[repository 1](https://github.com/chosim-dvlpr/react-shopping-cart/tree/step1)|[pull request 1](https://github.com/woowacourse/react-shopping-cart/pull/261)|
-|장바구니 <br> 2단계|`2024-05-21` ~ `2024-05-27`|[repository 2](https://github.com/chosim-dvlpr/react-shopping-cart/tree/step2)|[pull request 2](https://github.com/woowacourse/react-shopping-cart/pull/318)|
-|상품 목록 <br> 1단계|`2024-05-28` ~ `2024-06-03`|[repository 1](https://github.com/chosim-dvlpr/react-shopping-products/tree/step1)|[pull request 1](https://github.com/woowacourse/react-shopping-products/pull/28)|
-|상품 목록 <br> 2단계|`2024-06-04` ~ `2024-06-10`|[repository 2](https://github.com/chosim-dvlpr/react-shopping-products/tree/step2)|[pull request 2](https://github.com/woowacourse/react-shopping-products/pull/65)| [github page](https://react-shopping-products-three.vercel.app/) |
+|페이먼츠 <br> 1단계|`2024-04-16` - `2024-04-22`|[repository 1](https://github.com/chosim-dvlpr/react-payments/tree/step1)|[pull request 1](https://github.com/woowacourse/react-payments/pull/340)|
+|페이먼츠 <br> 2단계|`2024-04-23` - `2024-04-29`|[repository 2](https://github.com/chosim-dvlpr/react-payments/tree/step2)|[pull request 2](https://github.com/woowacourse/react-payments/pull/391)| [github page](https://chosim-dvlpr.github.io/react-payments/dist/) | [storybook](https://6620c28ba5e20036aa444298-bwmuqduqkz.chromatic.com/?path=/story/cardbackimage--default)
+|페이먼츠 모듈 <br> 1단계|`2024-04-30` - `2024-05-06`|[repository 1](https://github.com/chosim-dvlpr/react-modules/tree/step1)|[pull request 1](https://github.com/woowacourse/react-modules/pull/6)| 
+|페이먼츠 모듈 <br> 2단계|`2024-05-07` - `2024-05-13`|[repository 2](https://github.com/chosim-dvlpr/react-modules/tree/step2)|[pull request 2](https://github.com/woowacourse/react-modules/pull/65)| npm 모듈 배포<br>[modal](https://www.npmjs.com/package/woowacourse-react-modal-component)<br>[custom hook](https://www.npmjs.com/package/woowacourse-card-custom-hook) | [storybook](https://663339f504de8c832eb86c8e-romtuuafsx.chromatic.com/)
+|장바구니 <br> 1단계|`2024-05-14` - `2024-05-20`|[repository 1](https://github.com/chosim-dvlpr/react-shopping-cart/tree/step1)|[pull request 1](https://github.com/woowacourse/react-shopping-cart/pull/261)|
+|장바구니 <br> 2단계|`2024-05-21` - `2024-05-27`|[repository 2](https://github.com/chosim-dvlpr/react-shopping-cart/tree/step2)|[pull request 2](https://github.com/woowacourse/react-shopping-cart/pull/318)|
+|상품 목록 <br> 1단계|`2024-05-28` - `2024-06-03`|[repository 1](https://github.com/chosim-dvlpr/react-shopping-products/tree/step1)|[pull request 1](https://github.com/woowacourse/react-shopping-products/pull/28)|
+|상품 목록 <br> 2단계|`2024-06-04` - `2024-06-10`|[repository 2](https://github.com/chosim-dvlpr/react-shopping-products/tree/step2)|[pull request 2](https://github.com/woowacourse/react-shopping-products/pull/65)| [github page](https://react-shopping-products-three.vercel.app/) |
 
 <br>
 
@@ -114,21 +114,21 @@
 
 | Project | Period | Repository | Pull Request & Review | Pages |
 |:-----:|:-----:|:---:|:---:|:---:|
-|자동차 경주 <br> 1단계|`2024-02-13` ~ `2024-02-15`|[repository 1](https://github.com/chosim-dvlpr/javascript-racingcar/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-racingcar/pull/285)|
-|자동차 경주 <br> 2단계|`2024-02-16` ~ `2024-02-19`|[repository 2](https://github.com/chosim-dvlpr/javascript-racingcar/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-racingcar/pull/304)|
-|로또 <br> 1단계|`2024-02-20` ~ `2024-02-22`|[repository 1](https://github.com/chosim-dvlpr/javascript-lotto/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-lotto/pull/272)
-|로또 <br> 2단계|`2024-02-23` ~ `2024-03-04`|[repository 2](https://github.com/chosim-dvlpr/javascript-lotto/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-lotto/pull/311)| [github page](https://chosim-dvlpr.github.io/javascript-lotto/dist/)
-|자주 가는 음식점 <br> 1단계|`2024-03-05` ~ `2024-03-08`|[repository 1](https://github.com/chosim-dvlpr/javascript-lunch/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-lunch/pull/111)|
-|자주 가는 음식점 <br> 2단계|`2024-03-09` ~ `2024-03-18`|[repository 2](https://github.com/chosim-dvlpr/javascript-lunch/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-lunch/pull/149)| [github page](https://chosim-dvlpr.github.io/javascript-lunch/dist/)|
-|영화 리뷰 <br> 1단계|`2024-03-19` ~ `2024-03-21`|[repository 1](https://github.com/chosim-dvlpr/javascript-movie-review/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-movie-review/pull/109)|
-|영화 리뷰 <br> 2단계|`2024-03-22` ~ `2024-04-01`|[repository 2](https://github.com/chosim-dvlpr/javascript-movie-review/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-movie-review/pull/156)| [github page](https://chosim-dvlpr.github.io/javascript-movie-review/dist/) | 
+|자동차 경주 <br> 1단계|`2024-02-13` - `2024-02-15`|[repository 1](https://github.com/chosim-dvlpr/javascript-racingcar/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-racingcar/pull/285)|
+|자동차 경주 <br> 2단계|`2024-02-16` - `2024-02-19`|[repository 2](https://github.com/chosim-dvlpr/javascript-racingcar/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-racingcar/pull/304)|
+|로또 <br> 1단계|`2024-02-20` - `2024-02-22`|[repository 1](https://github.com/chosim-dvlpr/javascript-lotto/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-lotto/pull/272)
+|로또 <br> 2단계|`2024-02-23` - `2024-03-04`|[repository 2](https://github.com/chosim-dvlpr/javascript-lotto/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-lotto/pull/311)| [github page](https://chosim-dvlpr.github.io/javascript-lotto/dist/)
+|자주 가는 음식점 <br> 1단계|`2024-03-05` - `2024-03-08`|[repository 1](https://github.com/chosim-dvlpr/javascript-lunch/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-lunch/pull/111)|
+|자주 가는 음식점 <br> 2단계|`2024-03-09` - `2024-03-18`|[repository 2](https://github.com/chosim-dvlpr/javascript-lunch/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-lunch/pull/149)| [github page](https://chosim-dvlpr.github.io/javascript-lunch/dist/)|
+|영화 리뷰 <br> 1단계|`2024-03-19` - `2024-03-21`|[repository 1](https://github.com/chosim-dvlpr/javascript-movie-review/tree/step1)|[pull request 1](https://github.com/woowacourse/javascript-movie-review/pull/109)|
+|영화 리뷰 <br> 2단계|`2024-03-22` - `2024-04-01`|[repository 2](https://github.com/chosim-dvlpr/javascript-movie-review/tree/step2)|[pull request 2](https://github.com/woowacourse/javascript-movie-review/pull/156)| [github page](https://chosim-dvlpr.github.io/javascript-movie-review/dist/) | 
 
 <br>
 
 ## 📌 Precourse
 | Project | Period | Repository |
 |:---:|:---:|:---:|
-|숫자 야구 게임|`2023-10-19` ~ `2023-10-25`|[repository](https://github.com/chosim-dvlpr/javascript-baseball-6)|
-|자동차 경주 게임|`2023-10-26` ~ `2023-11-01`|[repository](https://github.com/chosim-dvlpr/javascript-racingcar-6)|
-|로또 게임|`2023-11-02` ~ `2023-11-08`|[repository](https://github.com/chosim-dvlpr/javascript-lotto-6)|
-|크리스마스 프로모션|`2023-11-09` ~ `2023-11-15`|[repository](https://github.com/chosim-dvlpr/javascript-christmas-6-chosim-dvlpr)|
+|숫자 야구 게임|`2023-10-19` - `2023-10-25`|[repository](https://github.com/chosim-dvlpr/javascript-baseball-6)|
+|자동차 경주 게임|`2023-10-26` - `2023-11-01`|[repository](https://github.com/chosim-dvlpr/javascript-racingcar-6)|
+|로또 게임|`2023-11-02` - `2023-11-08`|[repository](https://github.com/chosim-dvlpr/javascript-lotto-6)|
+|크리스마스 프로모션|`2023-11-09` - `2023-11-15`|[repository](https://github.com/chosim-dvlpr/javascript-christmas-6-chosim-dvlpr)|
