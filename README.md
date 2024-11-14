@@ -5,12 +5,6 @@
 > This is a repository summarizing the missions and learning content completed during the Woowacourse.
 
 <br>
-<div align="center">
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/121149171/382807409-bc93deec-b77a-4002-8981-d0e2cc9b8c09.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241104%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241104T151101Z&X-Amz-Expires=300&X-Amz-Signature=b1aa751003558e2e720e7decebb4ce8a3c75fda079c97789136e496494429853&X-Amz-SignedHeaders=host" width="40%"/>
-</div>
-
-
-<br>
 
 ## 📚 Study
 
