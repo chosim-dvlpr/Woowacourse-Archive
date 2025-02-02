@@ -9,11 +9,22 @@
 ## 📚 Study
 
 | Study | Period | Level |
-|:---|:---:|:---:|
+|:---:|:---:|:---:|
 | Javascript Deep Dive Study | `2024-03-15` - `2024-04-04` |  Level 1 |
 | React Deep Dive Study | `2024-06-19` - `2024-06-12` | Level 2 |
-| 블로그 포스팅 스터디 | `2024-07-02` - 진행 중 | Level 3-5 |
+| 블로그 포스팅 스터디 | `2024-07-02` - `2024-12-31` | Level 3-5 |
 | 면취기 스터디 | `2024-07-02` - 진행 중 | Level 4-5 |
+
+<br>
+
+## 📌 Level 5
+
+> 우아한테크코스 회고
+
+| Title | Date |
+|:-----:|:-----:|
+| [길고 긴 10개월이 지나고... 드디어 수료식!!✨](https://cho-sim-developer.tistory.com/entry/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-%EA%B8%B8%EA%B3%A0-%EA%B8%B4-10%EA%B0%9C%EC%9B%94%EC%9D%B4-%EC%A7%80%EB%82%98%EA%B3%A0-%EB%93%9C%EB%94%94%EC%96%B4-%EC%88%98%EB%A3%8C%EC%8B%9D%E2%9C%A8) | `2024-12-21` |
+
 
 <br>
 
@@ -35,7 +46,7 @@
 > 개별 미션
 
 | Project | Period | Repository | Pull Request & Review | Pages |
-|:-----|:-----:|:---:|:---:|:---:|
+|:-----:|:-----:|:---:|:---:|:---:|
 |성능 개선|`2024-09-03` - `2024-09-09`|[repository](https://github.com/chosim-dvlpr/perf-basecamp)| [pull request](https://github.com/woowacourse/perf-basecamp/pull/149) |
 |접근성 사전 미션|`2024-09-19` - `2024-09-23`|[repository](https://github.com/chosim-dvlpr/self-paced-enhance-usability/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/self-paced-enhance-usability/pull/29) |
 |접근성|`2024-09-24` - `2024-10-04`|[repository](https://github.com/chosim-dvlpr/a11y-airline/tree/chosim-dvlpr)| [pull request](https://github.com/woowacourse/a11y-airline/pull/107) | [github page](https://chosim-dvlpr.github.io/a11y-airline/) |
@@ -48,7 +59,7 @@
 > Level 4 Learning Log
 
 | Title | Date |
-|:-----|:-----:|
+|:-----:|:-----:|
 | [개발 환경 개선을 위한 노력 (CD 구축 삽질기, 전역 스타일 코드 갈아엎기)](https://cho-sim-developer.tistory.com/entry/%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%85%B8%EB%A0%A5-CD-%EA%B5%AC%EC%B6%95-%EC%82%BD%EC%A7%88%EA%B8%B0-%EC%A0%84%EC%97%AD-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%BD%94%EB%93%9C-%EA%B0%88%EC%95%84%EC%97%8E%EA%B8%B0) | `2024-09-14` |
 | [웹 사이트의 성능을 높여보자 (1) (요청 크기 줄이기, 필요한 것만 요청하기)](https://cho-sim-developer.tistory.com/entry/%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%86%92%EC%97%AC%EB%B3%B4%EC%9E%90-1-%EC%9A%94%EC%B2%AD-%ED%81%AC%EA%B8%B0-%EC%A4%84%EC%9D%B4%EA%B8%B0-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B2%83%EB%A7%8C-%EC%9A%94%EC%B2%AD%ED%95%98%EA%B8%B0) | `2024-09-15` |
 | [웹 사이트의 성능을 높여보자 (2) (같은 건 매번 새로 요청하지 않기, 최소한의 변경만 일으키기)](https://cho-sim-developer.tistory.com/entry/%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%86%92%EC%97%AC%EB%B3%B4%EC%9E%90-2-%EA%B0%99%EC%9D%80-%EA%B1%B4-%EB%A7%A4%EB%B2%88-%EC%83%88%EB%A1%9C-%EC%9A%94%EC%B2%AD%ED%95%98%EC%A7%80-%EC%95%8A%EA%B8%B0-%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%B3%80%EA%B2%BD%EB%A7%8C-%EC%9D%BC%EC%9C%BC%ED%82%A4%EA%B8%B0) | `2024-09-17` |
@@ -57,6 +68,8 @@
 | ['위로 가기 버튼' 스크롤 이벤트 최적화하기](https://cho-sim-developer.tistory.com/entry/%EC%9C%84%EB%A1%9C%EA%B0%80%EA%B8%B0-%EB%B2%84%ED%8A%BC-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0) | `2024-10-20` |
 | [사용자 피드백 반영하기 (수정 기능, 반응형 랜딩+헤더 구현)](https://cho-sim-developer.tistory.com/entry/%EC%82%AC%EC%9A%A9%EC%9E%90-%ED%94%BC%EB%93%9C%EB%B0%B1-%EB%B0%98%EC%98%81%ED%95%98%EA%B8%B0-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5-%EB%B0%98%EC%9D%91%ED%98%95-%EB%9E%9C%EB%94%A9%ED%97%A4%EB%8D%94-%EA%B5%AC%ED%98%84) | `2024-10-31`|
 | [프로젝트 성능 개선기 (번들 사이즈 최적화를 통한 웹 성능 최적화)](https://cho-sim-developer.tistory.com/entry/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EA%B8%B0-%EB%B2%88%EB%93%A4-%EC%82%AC%EC%9D%B4%EC%A6%88-%EA%B0%9C%EC%84%A0) | `2024-10-31` |
+| [개발 서버와 운영 서버의 환경변수만 다른데 운영 서버 배포만 안되는 이유?! (AWS S3, CDN, CodePipeline, CodeBuild)](https://cho-sim-developer.tistory.com/entry/%EA%B0%9C%EB%B0%9C-%EC%84%9C%EB%B2%84%EC%99%80-%EC%9A%B4%EC%98%81-%EC%84%9C%EB%B2%84%EC%9D%98-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98%EB%A7%8C-%EB%8B%A4%EB%A5%B8%EB%8D%B0-%EC%9A%B4%EC%98%81-%EC%84%9C%EB%B2%84-%EB%B0%B0%ED%8F%AC%EB%A7%8C-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-AWS-S3-CDN-CodePipeline-CodeBuild) | `2024-11-17` |
+
 
 
 <br>
@@ -80,7 +93,7 @@
 > Level 3 Learning Log
 
 | Title | Date |
-|:-----|:-----:|
+|:-----:|:-----:|
 | [Webpack 적용기](https://cho-sim-developer.tistory.com/entry/Webpack-%EC%A0%81%EC%9A%A9%EA%B8%B0) | `2024-07-06` |
 | [프론트엔드 React 프로젝트 S3로 배포하기](https://cho-sim-developer.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-React-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-S3%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0) | `2024-07-21` |
 | [프론트엔드 에러는 왜 추적해야 할까? (Sentry)](https://cho-sim-developer.tistory.com/entry/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%90%EB%9F%AC%EB%8A%94-%EC%99%9C-%EC%B6%94%EC%A0%81%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C-Sentry) | `2024-08-18` |
